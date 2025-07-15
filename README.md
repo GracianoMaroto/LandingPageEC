@@ -1,2 +1,2 @@
 ﻿# LandingPageEC
-- [Preview Page](https://evolucaodacomputacao.netlify.app/)
+- [Preview Page](https://jornada-da-computacao.netlify.app/)
